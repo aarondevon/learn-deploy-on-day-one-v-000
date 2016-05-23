@@ -346,6 +346,14 @@ a:visited {
   transform: scale(1.1);
 }
 
+#aaron-sawyer-cover {
+  background-image: url("http://i.imgur.com/hBVBiaC.jpg");
+}
+
+#aaron-sawyer-card {
+  background-image: url("http://i.imgur.com/74hopFz.jpg");
+}
+
 #luke-grecki-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/luke-grecki-cover.jpg");
 }
